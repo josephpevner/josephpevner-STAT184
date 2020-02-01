@@ -3,7 +3,7 @@ title: "Markdown Class Schedule"
 author: "Joseph Pevner"
 date: "January 31, 2020"
 output: 
-  html_notebook:
+  html_notebook:  
     fig_height: 3
     fig_width: 5
 ---
