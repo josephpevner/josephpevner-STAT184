@@ -1,0 +1,46 @@
+---
+  title: "Markdown Class Schedule"
+author: "Joseph Pevner"
+date: "January 31, 2020"
+output:
+  pdf_document: default
+html_notebook:
+  fig_height: 3
+fig_width: 5
+---
+  
+  # Class Schedule
+  
+  ### ACCTG 211H: Financial Accounting
+  
+  The objective of this course is to introduce students to the discipline of accounting through an introduction to two of accounting's sub-disciplines, financial and managerial accounting. The more specific purpose is to provide students a basic understanding of the role of financial and managerial accounting information in the decisions of capital market participants external to a business enterprise (e.g., stockholders, banks, financial analysts, prospective stockholders), and in the decisions of those who manage business enterprises. I was interested about these fields, so I took the class!
+
+A page about accounting is [linked here](https://en.wikipedia.org/wiki/Accounting).
+
+There are many applications made possible with accounting...  [here's some](https://www.linkedin.com/jobs/accounting-jobs-state-college-pa?position=1&pageNum=0)!  
+  
+  ![](https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/accounting.jpg)
+
+### ENGL 138T: Rhetoric and Civic Life II
+
+Within this course, civic and ethical components take center stage as students learn how to deliberate important public issues thoughtfully and with civility and respect. We learn the difference between persuasion and advocacy and work to develop strategies for both in the context of pertinent local, national, and global issues. We will participate in a public deliberation forum on topics we generate and vote on. The forum will be organized to allow small deliberative action groups as well as large forum-style meetings. The course focuses on ethics in many contexts... which I enjoy learning about!
+  
+  
+  The more info on this class is [linked here](https://sites.psu.edu/pennstatercl/).
+
+Check out <https://www.thebalancecareers.com/top-jobs-for-english-majors-2059642/> to find out opportunities for English Scholars!
+  
+  
+  ### MIS 250: Introduction to Problem Solving with Spreadsheet Analysis
+  
+  Introduction to Problem Solving with Spreadsheet Analysis and Information Systems Management introduces students to the use of information technologies for business problem solving and decision-making. This course explores the application of spreadsheet engineering concepts and principles of data management, business modeling, and reporting to business problems. Students demonstrate their understanding and mastery of these concepts through their application in examinations, practical lab exercises and assignments. Concepts are contextualized in a broader discussion of information systems management including: data security, ethical issues, social media, distributed (cloud) services, and emerging trends. The structure of this course intends to provide a well-rounded level of competency in the use of spreadsheet software as a tool while exploring problem decomposition and solution planning and construction. Therefore, the focus of the course is on developing problem-solving strategies while gaining insight on the tactical use of spreadsheets.
+
+
+A cool website is <https://bulletins.psu.edu/undergraduate/colleges/smeal-business/management-information-systems-bs/>.  
+
+You can learn more about the class from this [Wikipedia page](https://en.wikipedia.org/wiki/Spreadsheet)!!
+  
+  
+  
+  
+  
